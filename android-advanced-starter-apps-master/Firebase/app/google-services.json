@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354508748662",
+    "firebase_url": "https://adebayo-8607b.firebaseio.com",
+    "project_id": "adebayo-8607b",
+    "storage_bucket": "adebayo-8607b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354508748662:android:fa4aacaf8ece2bd4292c57",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354508748662-8jmcgpk7b1bg7g3vgp66veeesjviq2q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBct12MqXpuM3oRlzLu5BAOXOjTALSMXws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354508748662-8jmcgpk7b1bg7g3vgp66veeesjviq2q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
